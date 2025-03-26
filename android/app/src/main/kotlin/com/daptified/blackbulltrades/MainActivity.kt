@@ -1,0 +1,6 @@
+package com.daptified.blackbulltrades
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
